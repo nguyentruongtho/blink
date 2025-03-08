@@ -59,7 +59,7 @@ See you on Blink Shell 15 and beyond!
           }
         }.padding([.leading, .bottom, .trailing]).padding([.bottom, .leading, .trailing])
         Button {
-          let url = URL(string: "https://itunes.apple.com/app/id1594898306")!
+          let url = URL(string: "https://lisatech.net")!
           blink_openurl(url)
         } label: {
           Label("Download Now", systemImage: "applelogo")
